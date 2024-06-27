@@ -6,13 +6,13 @@ This project implements a web application using Streamlit to generate blog conte
 
 Features
 
-Input Fields: Users can enter a blog topic, specify the number of words, and choose the target audience (e.g., Researchers, Data Scientists, Common People).
+1. Input Fields: Users can enter a blog topic, specify the number of words, and choose the target audience (e.g., Researchers, Data Scientists, Common People).
 
-Customization: The application allows customization of the generated blog style based on user selection.
+2. Customization: The application allows customization of the generated blog style based on user selection.
 
-UI Customization: Modern UI styling using custom CSS for a user-friendly experience.
+3. UI Customization: Modern UI styling using custom CSS for a user-friendly experience.
 
-Error Handling: Validates user inputs and provides warnings for incorrect or missing information.
+4. Error Handling: Validates user inputs and provides warnings for incorrect or missing information.
 
 
 Setup Instructions
@@ -37,19 +37,19 @@ The app will be accessible in your browser at http://localhost:8501.
 
 Usage
 
-Enter a blog topic in the "Enter the Blog Topic" field.
+1. Enter a blog topic in the "Enter the Blog Topic" field.
 
-Specify the number of words desired for the blog post.
+2. Specify the number of words desired for the blog post.
 
-Choose the target audience for the blog from the dropdown menu.
+3. Choose the target audience for the blog from the dropdown menu.
 
-Click the "Generate Blog" button to create a customized blog post.
+4. Click the "Generate Blog" button to create a customized blog post.
 
 
 Technologies Used
 
-Streamlit: Web application framework used for building the UI.
+1. Streamlit: Web application framework used for building the UI.
 
-Python: Programming language used for backend logic and integration with the Llama 2 model.
+2. Python: Programming language used for backend logic and integration with the Llama 2 model.
 
-Custom CSS: Styling for enhancing the user interface.
+3. Custom CSS: Styling for enhancing the user interface.
