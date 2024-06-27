@@ -19,19 +19,19 @@ Setup Instructions
 
 Clone the repository
 
-git clone https://github.com/your-username/llama-2-blog-generator.git
+- git clone https://github.com/your-username/llama-2-blog-generator.git
 
-cd llama-2-blog-generator
+- cd llama-2-blog-generator
 
 
 Install dependencies
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 
 Run the application
 
-streamlit run app.py
+- streamlit run app.py
 
 The app will be accessible in your browser at http://localhost:8501.
 
